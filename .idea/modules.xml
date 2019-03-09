@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PageFactoryFrameWork.iml" filepath="$PROJECT_DIR$/PageFactoryFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagefactoryFramework.iml" filepath="$PROJECT_DIR$/PagefactoryFramework.iml" />
     </modules>
   </component>
 </project>
