@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PagefactoryFramework" />
+        <module name="PagefactoryFrameworks" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PagefactoryFramework" target="1.5" />
+      <module name="PagefactoryFrameworks" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
